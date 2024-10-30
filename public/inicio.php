@@ -11,7 +11,7 @@
         <div class="navbar-container">
             <a href="#" class="navbar-brand">Mi Página Minimalista</a>
             <ul class="navbar-links">
-                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#inicio">Home</a></li>
                 <li><a href="#sobre">Sobre</a></li>
                 <li><a href="#contacto">Contacto</a></li>
             </ul>
